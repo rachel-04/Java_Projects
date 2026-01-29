@@ -1,0 +1,25 @@
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# Maven/Gradle
+target/
+build/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/

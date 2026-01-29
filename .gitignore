@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# Java
+*.class
+build/
+dist/
+out/
+
+# IDE
+.idea/
+.vscode/
+nbproject/private/
